@@ -19,7 +19,7 @@
     "typescript": "^1.7.3",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0",
-    "electron": "^1.4.15",
+    "electron": "^9.1.0",
     "electron-builder": "^12.3.1"
   },
   "dependencies": {
